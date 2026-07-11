@@ -69,7 +69,7 @@ pipeline {
                }
             }
         }
-        stage('Docker Image Scan') {
+        stage('Docker Image San') {
             steps {
                 sh "trivy image --format table -o trivy-image-report.html abrahimcse/bloggingapp:latest "
             }
