@@ -1,7 +1,6 @@
 # DevOps Project : End to End Deployment of FullStack Blogging Application
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*LdTGlxSTQHnTl9uy.gif)
-gaurav
 
 ### (A Spring Boot Application Deployed on AWS with EKS, Terraform, Jenkins, SonarQube, Nexus, Trivy & Prometheus/Grafana)
 
